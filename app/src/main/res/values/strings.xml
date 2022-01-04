@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeekOne</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_enter">Войти</string>
+    <string name="login_register">Зарегистрироваться</string>
+    <string name="login_input_error">Ошибка ввода данных</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+    <string name="passwordAgainHint">Введите пароль еще раз</string>
+    <string name="registration_email_hint">Введите Email</string>
+    <string name="input_password_hint">Введите пароль</string>
+    <string name="login_register_success">Пользователь добавлен</string>
+    <string name="login_register_exists">Пользователь не добавлен (есть в базе)</string>
+    <string name="input_error">Ошибка ввода данных</string>
+</resources>
